@@ -16,7 +16,7 @@ Here are a few things I've picked up along my learning journey.
 
 - Frontend : <br />
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue&logoColor=4FC08D)
 
 - Backend : <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
