@@ -12,6 +12,7 @@ Here are a few things I've picked up along my learning journey.
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=777BB4)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 
 - Frontend : <br />
