@@ -16,10 +16,14 @@ Here are a few things I've picked up along my learning journey.
 
 - Frontend : <br />
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=CodeIgniter&logoColor=EF4223)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=FF2D20)
 
 - Backend : <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Lumen](https://img.shields.io/badge/-Lumen-05122A?style=flat&logo=Lumen&logoColor=E74430)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&logoColor=FFF)
 
 - Tool : <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
